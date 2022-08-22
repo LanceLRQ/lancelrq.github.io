@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/grasscutter-web-tools/static/css/main.cb28809e.css",
-    "main.js": "/grasscutter-web-tools/static/js/main.38b8e9da.js",
+    "main.js": "/grasscutter-web-tools/static/js/main.e15be5d1.js",
     "static/js/787.e0f737d3.chunk.js": "/grasscutter-web-tools/static/js/787.e0f737d3.chunk.js",
     "index.html": "/grasscutter-web-tools/index.html",
     "main.cb28809e.css.map": "/grasscutter-web-tools/static/css/main.cb28809e.css.map",
-    "main.38b8e9da.js.map": "/grasscutter-web-tools/static/js/main.38b8e9da.js.map",
+    "main.e15be5d1.js.map": "/grasscutter-web-tools/static/js/main.e15be5d1.js.map",
     "787.e0f737d3.chunk.js.map": "/grasscutter-web-tools/static/js/787.e0f737d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb28809e.css",
-    "static/js/main.38b8e9da.js"
+    "static/js/main.e15be5d1.js"
   ]
 }
